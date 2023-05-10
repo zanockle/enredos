@@ -1,4 +1,5 @@
-#!/bin/bash
+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
+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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#!/bin/bash
 # Autor: Marcos García
 # Fecha: 18/04/2023
 while true; do
@@ -31,7 +32,7 @@ case $opcion in
 		echo "------------------------"
 		git config user.name
 		git config user.email 
-		git config user.password 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
+		git config user.password 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
 		read -rsp $'\nPress enter to continue...'
 	;;
 3)
@@ -82,5 +83,5 @@ echo "8) SALIR"
 		echo "OPCION INCORRECTA"
 		read -rsp $'\nPress enter to continue...'
 	;;
-esac
 done 
+
